@@ -2,7 +2,7 @@
 !.gitignore
 /build/
 /resources/
-
+.idea
 # Hidden files and stuff
 /**/.DS_Store
 
